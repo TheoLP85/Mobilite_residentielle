@@ -8,6 +8,7 @@ Nous avons donc mis à notre disposition en provenance l'INSEE :
 - les données du chômage par département de l'INSEE
 - les données des salaires qui proviennent des déclarations annuelles de données sociales (DADS) et déclarations sociales nominatives (DSN) de l'INSEE
 
-A cela nous avons créé une base sur deux caractéristiques géographiques des départements à savoir des indicatrices sur le fait que le département est situé sur le littoral ou non ou bien sur la frontière avec un autre un autre pays.
+A cela nous avons créé une base sur deux caractéristiques géographiques des départements à savoir des indicatrices sur le fait que le département est situé sur le littoral ou sur la frontière avec un autre un autre pays.
 
-Le Notebook Donnees_logement.
+Dans l'ordre, à faire fonctionner : 
+1) Le Notebook Donnees_logement.ipynb traite les données sur le logement, exporte deux base de données utiles pour les autres Notebooks et fait quelques observations.
