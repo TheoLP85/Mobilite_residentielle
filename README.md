@@ -11,4 +11,4 @@ Nous avons donc mis à notre disposition en provenance l'INSEE :
 A cela nous avons créé une base sur deux caractéristiques géographiques des départements à savoir des indicatrices sur le fait que le département est situé sur le littoral ou sur la frontière avec un autre un autre pays.
 
 Dans l'ordre, à faire fonctionner : 
-1) Le Notebook Donnees_logement.ipynb traite les données sur le logement, exporte deux base de données utiles pour les autres Notebooks et fait quelques observations.
+1) Le Notebook Donnees_logement.ipynb traite les données sur le logement (nettoyage, agrégation), exporte deux base de données utiles pour les autres Notebooks et fait quelques statistiques descriptives sur celles-ci.
