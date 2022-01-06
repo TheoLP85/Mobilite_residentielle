@@ -12,3 +12,4 @@ A cela nous avons créé une base sur deux caractéristiques géographiques des 
 
 Dans l'ordre, à faire fonctionner : 
 1) Le Notebook Donnees_logement.ipynb traite les données sur le logement (nettoyage, agrégation), exporte deux base de données utiles pour les autres Notebooks et fait quelques statistiques descriptives sur celles-ci.
+2) Le Notebook Donnees_regresseurs.ipynb qui agrège en une base de données l'ensemble des variables que nous avons retenus (equipements, salaires, taux de chômage, département situé sur le littoral ou à la frontière d'un pays européen)
